@@ -1,0 +1,3 @@
+﻿발화ID,STT모델구분,라즈베리파이_STT원본,서버_AI_최종교정본,RAG_매칭여부
+1,simulated_string_data,session_id,안녕하세요.,RAG매칭
+2,simulated_string_data,utterances,始めまして,RAG매칭
